@@ -1,5 +1,6 @@
 CODE CHALLENGE1
 BY ROCLIFF KADAJI
+Copyright (c) 2024 kadaji777
 
 question 1: Student Grade Generator
 
