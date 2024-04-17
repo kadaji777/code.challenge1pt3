@@ -1,1 +1,2 @@
-# code.challenge1pt3
+CODE CHALLENGE1
+BY ROCLIFF KADAJI
